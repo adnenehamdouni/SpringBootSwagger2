@@ -1,5 +1,7 @@
 # Getting Started
 
+http://localhost:8081/swagger-app/swagger-ui.html
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
